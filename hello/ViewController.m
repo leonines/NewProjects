@@ -21,10 +21,10 @@
     NSString * str2=@"bablu";
     NSString * str3=@"sannl";
     
-    NSLog(@"%@",str1);
-    NSLog(@"%@",str2);
-    NSLog(@"%@",str3);
-    
+//    NSLog(@"%@",str1);
+//    NSLog(@"%@",str2);
+//    NSLog(@"%@",str3);
+//    
 }
 
 
